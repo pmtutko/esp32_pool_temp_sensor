@@ -31,7 +31,7 @@ Collect pool water temperature data and report to the local Home Assistant serve
   | DHT22 Temperature and Humidity Module |  1  |  [AliExpress](https://www.aliexpress.us/item/3256808286437674.html) |
   | ESP32 ProS3[D]  |  1  |  [Unexpected Maker](https://unexpectedmaker.com/shop.html#!/ProS3-D/p/759221737)  |
   | IP68 Cable Gland  |  1  |  [AliExpress](https://www.aliexpress.us/item/3256803660219611.html)  |
-  | IP68 Type C USB Female Connector  |  1  |  [AliExpress](https://www.aliexpress.us/item/3256803660219611.html)  |
+  | IP68 Type C USB Female Connector  |  1  |  [AliExpress](https://www.aliexpress.us/item/3256807296295711.html)  |
   
 
   
