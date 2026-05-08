@@ -34,3 +34,7 @@ Collect pool water temperature data and report to the local Home Assistant serve
   | IP68 Type C USB Female Connector  |  1  |  [AliExpress](https://www.aliexpress.us/item/3256807296295711.html)  |
   | 10K Ohm Resistor  |  1  |  |
    
+## Circuit Design
+
+!(/images/esp32_pool_temp_sensor.png)
+
