@@ -36,5 +36,5 @@ Collect pool water temperature data and report to the local Home Assistant serve
    
 ## Circuit Design
 
-!(/assets/images/esp32_pool_temp_sensor.png)
+!(images/esp32_pool_temp_sensor.png)
 
