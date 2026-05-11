@@ -16,7 +16,7 @@ Collect pool water temperature data and report to the local Home Assistant serve
 
 ## Design Considerations:
   - The sensor enclosure must be waterproof, so any pass-through cabling (water temp probe, USB-C socket) must also be waterproof.
-  - Running on battery power will require hardware battery management.
+  - Running on battery power will require hardware battery management hardware. Select an MCU board that has built-in battery management chips or use separate modules connected to the MCU.
   - Since there will not be any external display to indicate battery status, include battery voltage monitoring and reporting to Home Assistant.
   - The sensor software shoud use ESPHome integration, but it can be written with the ESPHome integration or in C with the appropriate libraries.
   - If there are multiple modules inside the enclosure, they can/should be hard-wired (soldered), but any connections to external I/O should use some kind of mechanical connection such as JST connectors. A good example is the externally mounted USB-C connector. It would put undue mechanical strain on the ESP32 USB connector to directly expose it outside the case. So we'll use a case-mounted USB-C socket and cable it internally to the ESP32 board.
