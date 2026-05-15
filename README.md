@@ -36,5 +36,7 @@ Collect pool water temperature data and report to the local Home Assistant serve
    
 ## Circuit Design
 
+[Cirkit Designer project preview](https://app.cirkitdesigner.com/project/d734ec6a-ddbd-4609-a281-f0d94dacfdb2?view=interactive_preview)
+
 ![Cirkit Designer Image](images/esp32_pool_temp_sensor.png)
 
